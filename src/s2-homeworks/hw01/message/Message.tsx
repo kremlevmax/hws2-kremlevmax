@@ -6,7 +6,7 @@ export type MessagePropsType = {
     message: {
         id: number
     }
-
+///
 }
 
 // нужно отобразить приходящие данные
