@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hws2-kremlevmax/static/css/main.47e20493.css",
+    "main.js": "/hws2-kremlevmax/static/js/main.b1bda26f.js",
+    "static/js/787.66cb4309.chunk.js": "/hws2-kremlevmax/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/hws2-kremlevmax/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/hws2-kremlevmax/index.html",
+    "main.47e20493.css.map": "/hws2-kremlevmax/static/css/main.47e20493.css.map",
+    "main.b1bda26f.js.map": "/hws2-kremlevmax/static/js/main.b1bda26f.js.map",
+    "787.66cb4309.chunk.js.map": "/hws2-kremlevmax/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47e20493.css",
+    "static/js/main.b1bda26f.js"
+  ]
+}
